@@ -1,11 +1,17 @@
 ---
-date: '2024-03-28T20:00:00.000+01:00'
-title: 'Unionistas Logroñes - Los numeros de Pol'
-description: 'Los numeros de Pol. Primera federación grupo 1, jornada 30.'
-imagen: '/img/noticias/numeros-pol.webp'
-categorias: ['Primera federación']
-autor: 'Pol Zakour'
-tags: ['Primera federacion', 'SDL', 'Logroñes', 'Estadísticas']
+title: USCF - SD Logroñés - Los números de Pol
+description: Los números de Pol. Primera Federación, grupo 1, jornada 30.
+date: 2024-03-28T20:00:00.000+01:00
+imagen: /img/noticias/numeros-pol.webp
+categorias:
+  - Los Números de Pol
+tags:
+  - Primera Federación
+  - Reina Sofía
+  - Unionistas
+  - SD Logroñés
+  - Estadísticas
+autor: Pol Zakour
 ---
 
 Trascendental partido en esta 30ª jornada el que acoge el Reina Sofía para las aspiraciones de ambos equipos con un objetivo a priori diferente, pero con el deseo de volver a engancharse tras una mala dinámica: poder llegar a una Copa del Rey que le queda ahora mismo a 4 puntos al cuadro charro, o a una soñada salvación que también separan en 4 dígitos  al conjunto logroñés.
@@ -30,7 +36,7 @@ Dos maneras similares de gestionar donde el aficionado toma las decisiones más 
 
 ## El árbitro del partido
 
-Daniel Pastoriza Iglesias será el colegiado encargado de dirigir este trascendental encuentro entre Unionistas de Salamanca y SD Logroñés. Un choque que se disputará en el Estadio Reina Sofía el día 30/Marzo a las 16:00h. Tercera temporada en Primera RFEF para el árbitro de 36 años natural de Moaña, perteneciente al Colegio gallego. 5 tarjetas amarillas promedia por partido esta temporada, en la que tan solo ha mostrado una cartulina roja. 12 victorias locales, 5 empates y 15 victorias como visitante son los resultados en los partidos en los que era el encargado de dictar justicia.
+Daniel Pastoriza Iglesias será el colegiado encargado de dirigir este trascendental encuentro entre Unionistas de Salamanca y SD Logroñés. Un choque que se disputará en el Estadio Reina Sofía el día 30/Marzo a las 16:00h. Tercera temporada en Primera Federación para el árbitro de 36 años natural de Moaña, perteneciente al Colegio gallego. 5 tarjetas amarillas promedia por partido esta temporada, en la que tan solo ha mostrado una cartulina roja. 12 victorias locales, 5 empates y 15 victorias como visitante son los resultados en los partidos en los que era el encargado de dictar justicia.
 
 Con el partido del sábado, Daniel Pastoriza Iglesias arbitrará a Unionistas de Salamanca por 8ª ocasión, convirtiéndose el conjunto charro en el club al que más veces ha dirigido el colegiado gallego, igualado con la Cultural Leonesa, presentando las siguientes estadísticas: 2 victorias a favor (Tª 2020/21 ante CD Guijuelo y Tª 2021/22 ante Internacional de Madrid), 4 empates (1-1 vs Leioa en Las Pistas y 1-1 vs San Fernando en el Reina Sofía y dos 0-0 vs Sestao River y SD Tarazona esta misma temporada), y tan solo una victoria en contra (0-1 vs Unión Adarve en Las Pistas).
 
